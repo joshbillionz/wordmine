@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Play"
+        android:icon="@drawable/ic_game_filled"
+        android:title="Play" />
+    <item
+        android:icon="@drawable/ic_sheild"
+        android:title="LeaderBoard" />
+    <item
+        android:icon="@drawable/ic_account"
+        android:title="Profile" />
+    <item
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+    <item
+        android:icon="@drawable/ic_store"
+        android:title="Store" />
+
+</menu>
